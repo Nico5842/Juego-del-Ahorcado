@@ -1,0 +1,46 @@
+body{
+    width: 1200px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-position: center;
+    background-image: url(imagenes/fresno.jpg);
+    background-size: cover;
+    padding-top: 50px;
+}
+
+canvas{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 100px;
+}
+
+#jugar{
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.palabra{
+    width: 35%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#guion{
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#letra{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+#campo1{
+    display: block;
+}
